@@ -1,0 +1,91 @@
+{
+    "selectLanguage" : "Choose language",
+    "comment": "Korean language and TOPIK preparation center located in Tashkent",
+    "whyUs": "Why Us",
+    "results": "Results",
+    "courses": "Courses",
+    "faq": "FAQ",
+    "callUs": "Call Us",
+    "intruductionCommeny": "Start speaking in Korean within 3 months",
+    "intruductionTitle": "Opportunity to study in South Korean universities with up to 100% scholarship",
+    "intruductionOffer1": "We help you achieve TOPIK 6 level in 5 months",
+    "intruductionOffer2": "Achieve a high level in TOPIK and get the chance to study and work in South Korea",
+    "intruductionBtn": "Register for a free class",
+    "intruductionBtnComment": "Sign up for your first free class!",
+    "offerTitle": "TOPIK academy is perfect for you if you:",
+    "offerText1": "Want to start speaking Korean in a short time",
+    "offerText2": "Want to learn Korean and build your career",
+    "offerText3": "Want to get a TOPIK certificate and win scholarships to prestigious universities in Korea",
+    "offerText4": "Plan to study and work in South Korea",
+    "offerText5": "Know Korean at an intermediate level and want to improve your skills",
+    "offerText6": "Have been studying for years but haven't achieved the desired results",
+    "offerBtn": "Yes, that's me",
+    "resultTitle": "Our students' results up to TOPIK 6",
+    "grantTitle": "Opportunity to win up to 100% scholarships to Korean universities",
+    "grantListFirstTitle": "GKS (Global Korean Scholarship) $70,000 Grant",
+    "grantListFirstText": "The South Korean government's scholarship program (GKS) offers international students up to 100% full coverage and a monthly stipend for studying undergraduate and graduate programs in Korea.",
+    "grantListSecondTitle": "What the GKS grant provides",
+    "GrantListFirst": "Covers travel expenses to and from Korea at the start and end of the program.",
+    "GrantListSecond": "One-time settlement allowance of 200,000 KRW (approximately 157 USD) upon arrival in Korea.",
+    "GrantListThird": "Full coverage of language course and university tuition fees (only for master’s and doctoral students)",
+    "HelpTitle": "We assist our successful graduates in choosing universities and winning scholarships",
+    "HelpSubtitle": "TOPIK academy consulting team will assist you in choosing a university, obtaining a visa, and winning scholarships.",
+    "HelpComment": "Register for a free consultation for more details!",
+    "HelpBtnText": "Submit request",
+    "CourseTitle": "Sign up for a course that fits you",
+    "CourseCard-1": {
+        "CardTitle": "Intensive",
+        "CardBadge": "Duration: 5 months",
+        "CardText": "An intensive course for those who want to study deeply, 6 days a week for 1.5 hours.",
+        "CardBtn": "Register",
+        "CardPrice": "970,000 UZS / month"
+    },
+    "CourseCard-2": {
+        "CardTitle": "Regular",
+        "CardBadge": "Duration: 5 months",
+        "CardText": "Regular Korean lessons 3 times a week for 1.5 hours.",
+        "CardBtn": "Register",
+        "CardPrice": "560,000 UZS / month"
+    },
+    "CourseCard-3": {
+        "CardTitle": "Individual",
+        "CardBadge": "Duration: 5 months",
+        "CardText": "Individual lessons with a teacher 3 times a week for 1.5 hours. Flexible schedule and personalized approach.",
+        "CardBtn": "Register",
+        "CardPrice": "1,800,000 UZS / month"
+    },
+    "WhyUsTitle": "Why TOPIK academy?",
+    "WhyUsCard-1": {
+        "index": "01",
+        "title": "Professional Teachers",
+        "text": "You will learn with teachers who have over 4 years of experience and TOPIK level 6."
+    },
+    "WhyUsCard-2": {
+        "index": "02",
+        "title": "Free Co-working Spaces",
+        "text": "We have free co-working spaces for self-study, networking, and personal development."
+    },
+    "WhyUsCard-3": {
+        "index": "03",
+        "title": "Weekly Events",
+        "text": "The TOPIK academy team regularly organizes extra activities for its students."
+    },
+    "WhyUsCard-4": {
+        "index": "04",
+        "title": "Free Trial Exams",
+        "text": "Trial exams are conducted every month to help you track your progress."
+    },
+    "WhyUsCard-5": {
+        "index": "05",
+        "title": "Mentor Assistance",
+        "text": "If you face any difficulties in your studies, your mentor will assist you."
+    },
+    "WhyUsCard-6": {
+        "index": "06",
+        "title": "Consulting Services",
+        "text": "We help successful graduates with visa processing, university selection, and winning scholarships for studying in South Korea."
+    },
+    "faqTitle": "Frequently Asked Questions",
+    "accordionTitle": "Do you provide study materials or do I need to search for them myself?",
+    "accordionText": "Lorem ipsum dolor sit harum culpa exercitationem inventore id doloremque, saepe a deleniti quod."
+}
