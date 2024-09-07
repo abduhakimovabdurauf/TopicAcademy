@@ -14,9 +14,6 @@ body {
     margin: 0 auto;
     flex-direction: row;
     justify-content: space-between;
-    /* position: fixed; */
-    position: sticky;
-    top: 0px;
     background-color: #fff;
     z-index: 1111111111111111111;
 }
