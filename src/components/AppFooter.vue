@@ -2,7 +2,7 @@
   <footer class="footer">
     <div class="footer-content">
       <div class="logo-section">
-        <img src="../assets/images/logo_horizontal.svg" alt="Topik Academy Logo" class="logo" />
+        <img src="../../public/images/logo_horizontal.svg" alt="Topik Academy Logo" class="logo" />
       </div>
       <ul class="footer-menu">
         <li><a href="#">Nega biz</a></li>

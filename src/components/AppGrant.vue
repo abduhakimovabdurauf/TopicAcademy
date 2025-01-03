@@ -5,7 +5,7 @@
         </p>
         <div class="grant__wrapper">
             <div class="wrapper__left">
-                <img src="../assets/images/grant.png" alt="oops">
+                <img src="../../public/images/grant.png" alt="oops">
             </div>
             <div class="wrapper__right">
                 <div class="wrapper__block">

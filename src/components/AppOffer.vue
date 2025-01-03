@@ -4,7 +4,7 @@
         <div class="offer__card--wrapper">
             <div class="offer__card">
                 <div class="offer__card--img">
-                    <img src="../assets/images/chat.png" alt="">
+                    <img src="../../public/images/chat.png" alt="">
                 </div>
                 <p class="offer__card--text">
                     {{ t('offerText1') }}
@@ -12,7 +12,7 @@
             </div>
             <div class="offer__card">
                 <div class="offer__card--img">
-                    <img src="../assets/images/rocket.png" alt="">
+                    <img src="../../public/images/rocket.png" alt="">
                 </div>
                 <p class="offer__card--text">
                     {{ t('offerText2') }}
@@ -20,7 +20,7 @@
             </div>
             <div class="offer__card">
                 <div class="offer__card--img">
-                    <img src="../assets/images/money.png" alt="">
+                    <img src="../../public/images/money.png" alt="">
                 </div>
                 <p class="offer__card--text">
                     {{ t('offerText3') }}
@@ -28,7 +28,7 @@
             </div>
             <div class="offer__card">
                 <div class="offer__card--img">
-                    <img src="../assets/images/bag.png" alt="">
+                    <img src="../../public/images/bag.png" alt="">
                 </div>
                 <p class="offer__card--text">
                     {{ t('offerText4') }}
@@ -36,7 +36,7 @@
             </div>
             <div class="offer__card">
                 <div class="offer__card--img">
-                    <img src="../assets/images/target.png" alt="">
+                    <img src="../../public/images/target.png" alt="">
                 </div>
                 <p class="offer__card--text">
                     {{ t('offerText5') }}
@@ -44,7 +44,7 @@
             </div>
             <div class="offer__card">
                 <div class="offer__card--img">
-                    <img src="../assets/images/key.png" alt="">
+                    <img src="../../public/images/key.png" alt="">
                 </div>
                 <p class="offer__card--text">
                     {{ t('offerText6') }}

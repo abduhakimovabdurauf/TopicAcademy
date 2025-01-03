@@ -7,7 +7,7 @@
     <div class="course__wrapper">
         <div class="course__card">
             <div class="course__card--image">
-                <img src="../assets/images/1.png" alt="">
+                <img src="../../public/images/1.png" alt="">
             </div>
             <div class="course__card--header">
                 <p class="course__card--title">
@@ -29,7 +29,7 @@
         </div>
         <div class="course__card">
             <div class="course__card--image">
-                <img src="../assets/images/1.png" alt="">
+                <img src="../../public/images/1.png" alt="">
             </div>
             <div class="course__card--header">
                 <p class="course__card--title">
@@ -51,7 +51,7 @@
         </div>
         <div class="course__card">
             <div class="course__card--image">
-                <img src="../assets/images/1.png" alt="">
+                <img src="../../public/images/1.png" alt="">
             </div>
             <div class="course__card--header">
                 <p class="course__card--title">

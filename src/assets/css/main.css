@@ -268,7 +268,7 @@ body {
 .intruduction {
     width: 100%;
     padding-left: 90px;
-    background-image: url('../images/1.png');
+    background-image: url('../../../public/images/1.png');
     background-size: 60% auto;
     background-repeat: no-repeat;
     background-position: 120% 120%;

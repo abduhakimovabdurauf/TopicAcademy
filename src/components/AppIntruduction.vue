@@ -8,13 +8,13 @@
     </div>
     <div class="intruduction__offer--wrapper">
         <div class="intruduction__offer">
-            <img src="../assets/images/barg.png" alt="">
+            <img src="../../public/images/barg.png" alt="">
             <p class="intruduction__offer--text first">
                 {{ t('intruductionOffer1') }}
             </p>
         </div>
         <div class="intruduction__offer">
-            <img src="../assets/images/barg.png" alt="">
+            <img src="../../public/images/barg.png" alt="">
             <p class="intruduction__offer--text second">
                 {{ t('intruductionOffer2') }}
             </p>
